@@ -1,0 +1,3 @@
+CREATE DATABASE Shubham;
+
+USE DATABASE Shubham
